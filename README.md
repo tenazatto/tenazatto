@@ -4,7 +4,9 @@
 - Linguagens em experiências anteriores: JavaScript, C#, Java, Scala, Python
 - 🌱 Interesse nas seguintes linguagens: Go, Rust
 
-[![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](https://www.linkedin.com/in/tenazatto/)
+<a href="https://www.linkedin.com/in/tenazatto/" alt="linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
 <!--
 **tenazatto/tenazatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
