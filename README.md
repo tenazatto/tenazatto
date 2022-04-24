@@ -1,4 +1,10 @@
-### Hi there 👋
+### Thales Eduardo Nazatto
+
+- 🔭 Desenvolvedor Senior na Zup, atualmente trabalhando com Java
+- Linguagens em experiências anteriores: JavaScript, C#, Java, Scala, Python
+- 🌱 Interesse nas seguintes linguagens: Go, Rust
+
+[![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})](https://www.linkedin.com/in/tenazatto/)
 
 <!--
 **tenazatto/tenazatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
