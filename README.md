@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-- 🔭 Desenvolvedor Senior na Zup, atualmente trabalhando com Java
+- 🔭 Analista Desenvolvedor Senior na Bosch, atualmente trabalhando com Java
 - Linguagens em experiências anteriores: JavaScript, C#, Java, Scala, Python
 - 🌱 Interesse nas seguintes linguagens: Go, Rust
 
